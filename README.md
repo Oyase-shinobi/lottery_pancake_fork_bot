@@ -68,3 +68,4 @@ Examples of error logs:
 {"message":"[1970-01-01T12:00:00.000Z] network=testnet message='Invalid JSON RPC response' signer=0x...","level":"error"}
 {"message":"[1970-01-02T00:00:00.000Z] network=testnet message='Invalid keyHash on RandomGenerator contract' signer=0x...","level":"error"}
 ```
+                  
